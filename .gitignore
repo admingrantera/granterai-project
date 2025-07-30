@@ -1,0 +1,13 @@
+# Ignore the large XML data folders
+xml_files_to_process/
+form_990_xmls/
+
+# Ignore the Python virtual environment
+venv/
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore the environment variables file for security
+.env
